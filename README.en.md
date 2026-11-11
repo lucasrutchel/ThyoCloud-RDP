@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=ThyoCloud&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Private%20RDP%20%E2%80%A2%20Fork%20Edition&descSize=22&descAlignY=68" width="100%" alt="ThyoCloud Banner" />
 
-[🇮🇩 Bahasa Indonesia](README.md) &nbsp;|&nbsp; **🇬🇧 English**
+[🇵🇭Ang Pilipinas](README.md) &nbsp;|&nbsp; **🇬🇧 English**
 
 <a href="https://thyo.cloud">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C7B7&center=true&vCenter=true&width=620&lines=Your+Personal+Remote+Desktop+%F0%9F%96%A5%EF%B8%8F;Powered+by+GitHub+Actions+%E2%9A%99%EF%B8%8F;Credentials+Sent+to+Your+Telegram+DM+%F0%9F%93%A9;Free+%26+Isolated+%F0%9F%94%92" alt="Typing SVG" />
