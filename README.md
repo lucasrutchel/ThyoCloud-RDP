@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=ThyoCloud&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Private%20RDP%20%E2%80%A2%20Fork%20Edition&descSize=22&descAlignY=68" width="100%" alt="ThyoCloud Banner" />
 
-**🇮🇩 Bahasa Indonesia** &nbsp;|&nbsp; [🇬🇧 English](README.en.md)
+**🇵🇭 Ang Pilipinas** &nbsp;|&nbsp; [🇬🇧 English](README.en.md)
 
 <a href="https://thyo.cloud">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C7B7&center=true&vCenter=true&width=620&lines=Remote+Desktop+Pribadi+%F0%9F%96%A5%EF%B8%8F;Ditenagai+GitHub+Actions+%E2%9A%99%EF%B8%8F;Kredensial+Langsung+ke+DM+Telegram+%F0%9F%93%A9;Gratis+%26+Terisolasi+%F0%9F%94%92" alt="Typing SVG" />
@@ -16,19 +16,19 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Join_Group-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thyocloud)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/D0p0nULTTheCRG9pHD6OGy)
 
-**Sistem otomatisasi dengan lapisan keamanan ganda — dari verifikasi token hingga pengiriman kredensial, semua berjalan otomatis dan tersembunyi.**
+**Awtomatikong sistema na may dobleng patong ng seguridad — mula sa pag-verify ng token hanggang sa paghahatid ng kredensyal, lahat ay awtomatiko at nakatago.**
 
 </div>
 
 ---
 
-## 🏆 Pencapaian Komunitas
+## 🏆 Mga Nakamit ng Komunidad
 
 <div align="center">
 
 [![Forks](https://img.shields.io/github/forks/Thyo1/ThyoCloud-RDP?style=for-the-badge&logo=github&color=FFD700&labelColor=1f2937)](https://github.com/Thyo1/ThyoCloud-RDP/fork)
 [![Stars](https://img.shields.io/github/stars/Thyo1/ThyoCloud-RDP?style=for-the-badge&logo=github&color=F59E0B&labelColor=1f2937)](https://github.com/Thyo1/ThyoCloud-RDP/stargazers)
-[![Watchers](https://img.shields.io/github/watchers/Thyo1/ThyoCloud-RDP?style=for-the-badge&logo=github&color=3B82F6&labelColor=1f2937)](https://github.com/Thyo1/ThyoCloud-RDP/watchers)
+[![Watchers](https://img.shields.io/gi Mga Nakamit ng Komunidadthub/watchers/Thyo1/ThyoCloud-RDP?style=for-the-badge&logo=github&color=3B82F6&labelColor=1f2937)](https://github.com/Thyo1/ThyoCloud-RDP/watchers)
 ![Trusted](https://img.shields.io/badge/🛡️_Security_Audited-Hall_of_Fame-10B981?style=for-the-badge&labelColor=1f2937)
 
 | ⏱️ Durasi Sesi | 🔐 Kredensial | 🆓 Biaya |
@@ -63,9 +63,9 @@
 
 ## 📖 Tentang Proyek
 
-**ThyoCloud Private RDP (Fork Edition)** adalah repositori resmi untuk membuat instance **Remote Desktop Protocol (RDP)** pribadi lewat mekanisme *fork-and-run* di GitHub Actions. Setiap pengguna menjalankan workflow-nya sendiri di akun GitHub masing-masing, sehingga setiap instance bersifat **privat dan terisolasi**.
+**ThyoCloud Private RDP (Fork Edition)** ay ang opisyal na imbakan para sa paglikha ng mga pribadong Remote Desktop Protocol (RDP)** na mga instance sa pamamagitan ng mekanismong fork-and-run sa GitHub Actions. Ang bawat user ay nagpapatakbo ng isang**.
 
-> 💡 Tidak ada log kredensial yang tampil di layar Actions. Semua data sensitif dikirim langsung ke DM Telegram Anda.
+> 💡 Walang ipinapakitang mga log ng kredensyal sa screen ng Mga Aksyon. Lahat ng sensitibong data ay direktang ipinapadala sa iyong mga DM sa Telegram.
 
 ---
 
@@ -90,8 +90,9 @@ Tiap user punya instance sendiri
 <td align="center" width="25%">
 
 ### 📩
-**Otomatis**<br/>
-Kredensial dikirim via bot Telegram
+**Awtomatiko**<br/>
+Ang mga kredensyal ay ipinapadala sa pamamagitan ng  
+Github
 
 </td>
 <td align="center" width="25%">
@@ -136,9 +137,9 @@ flowchart LR
 | Langkah | Aksi |
 |:---:|---|
 | **1** | Bergabung ke grup komunitas resmi: **[t.me/thyocloud](https://t.me/thyocloud)** |
-| **2** | Pastikan sudah **Start** obrolan dengan `@ThyoCloudBot`, lalu ketik `/verify [TOKEN_ANDA]` di grup |
-| **3** | Setelah bot mengonfirmasi akses, buka repositori ini dan klik **Fork** di kanan atas |
-| **4** | Di repo hasil fork Anda, buka tab **⚡ Actions** |
+| **2** | Siguraduhing **Sinimulan** mo na ang isang chat,, pagkatapos ay i-type ang `/verify [YOUR_TOKEN]` sa grupo |
+| **3** | Kapag nakumpirma na ng bot ang access, buksan ang repository na ito at i-click ang **Fork** sa kanang itaas |
+| **4** | Sa iyong forked repo, buksan ang tab na **⚡ Actions** |
 | **5** | Jika muncul peringatan kuning "Workflows aren't being run on this fork", klik tombol **I understand my workflows, go ahead and enable them** |
 | **6** | Di sidebar kiri, klik workflow **ThyoCloud Personal RDP (Fork)** |
 | **7** | Klik dropdown **Run workflow** di sisi kanan (biasanya berwarna hijau) |
