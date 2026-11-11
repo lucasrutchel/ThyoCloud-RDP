@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=ZurvelCloudCloud&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Private%20RDP%20%E2%80%A2%20Fork%20Edition&descSize=22&descAlignY=68" width="100%" alt="ThyoCloud Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=ZurvelCloud&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Private%20RDP%20%E2%80%A2%20Fork%20Edition&descSize=22&descAlignY=68" width="100%" alt="ThyoCloud Banner" />
 
 **🇵🇭 Ang Pilipinas** &nbsp;|&nbsp; [🇬🇧 English](README.en.md)
 
